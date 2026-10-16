@@ -1,8 +1,8 @@
-# DakaSlim · Terms of Use
+# InjeQuest · Terms of Use
 
 **Last updated**: 2026-09-22
 
-Welcome to DakaSlim ("the App"), developed independently by Wallace Lai. By using the App you agree to these terms. If you do not agree, please do not use the App.
+Welcome to InjeQuest ("the App"), developed independently by Wallace Lai. By using the App you agree to these terms. If you do not agree, please do not use the App.
 
 ---
 

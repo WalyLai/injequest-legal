@@ -100,7 +100,7 @@ Pro 版一次性購買透過 Google Play 或 Apple App Store 處理，本 App �
 - Firebase Storage 中您的所有照片
 - 您的雲端同步帳號
 
-**電子郵件**：若您已無法開啟 App，請寄信至 **wallace.lai.android@gmail.com**，主旨「Delete my DakaSlim cloud data」，內容附上登入雲端同步時使用的 Google 帳號信箱。我們將於 7 天內處理，並回覆完成通知。
+**電子郵件**：若您已無法開啟 App，請寄信至 **wallace.lai.android@gmail.com**，主旨「Delete my InjeQuest cloud data」，內容附上登入雲端同步時使用的 Google 帳號信箱。我們將於 7 天內處理，並回覆完成通知。
 
 **無法個別刪除的資料**：匿名當機報告（Firebase Crashlytics）不含任何可識別個人的資訊，技術上無法對應到特定用戶，依 GDPR 第 11 條我們不保留足以重新識別的資訊。您可隨時在「設定 → 隱私 → 傳送匿名當機報告」切換關閉。
 

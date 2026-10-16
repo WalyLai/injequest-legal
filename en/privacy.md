@@ -1,8 +1,8 @@
-# DakaSlim · Privacy Policy
+# InjeQuest · Privacy Policy
 
 **Last updated**: 2026-10-07
 
-DakaSlim ("the App") is developed independently by Wallace Lai. This policy explains how the App collects, uses and shares your personal data. Please read it before using the App.
+InjeQuest ("the App") is developed independently by Wallace Lai. This policy explains how the App collects, uses and shares your personal data. Please read it before using the App.
 
 ---
 
@@ -92,7 +92,7 @@ Apart from these service providers, the App shares your data with no one.
 
 ## 4. Account deletion
 
-DakaSlim's core data lives on your device — uninstalling the app permanently deletes it. If you've enabled cloud sync, you can delete your cloud account and data in either of two ways:
+InjeQuest's core data lives on your device — uninstalling the app permanently deletes it. If you've enabled cloud sync, you can delete your cloud account and data in either of two ways:
 
 **In-app**: Settings → Cloud sync → Delete cloud account & data → Confirm. This removes:
 
@@ -100,7 +100,7 @@ DakaSlim's core data lives on your device — uninstalling the app permanently d
 - All your photos in Firebase Storage
 - Your cloud sync account
 
-**Email**: If you can no longer open the app, email **wallace.lai.android@gmail.com** with the subject "Delete my DakaSlim cloud data" and include the Google account you signed in with. We'll process the request within 7 days and reply with confirmation.
+**Email**: If you can no longer open the app, email **wallace.lai.android@gmail.com** with the subject "Delete my InjeQuest cloud data" and include the Google account you signed in with. We'll process the request within 7 days and reply with confirmation.
 
 **Data that cannot be individually deleted**: Anonymous crash reports (Firebase Crashlytics) contain no personally identifiable information and cannot technically be mapped back to a specific user. Under GDPR Article 11 we do not retain information sufficient to re-identify you. You can turn these off anytime via Settings → Privacy → Send anonymous crash reports.
 

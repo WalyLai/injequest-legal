@@ -1,8 +1,8 @@
-# DakaSlim · Medical Disclaimer
+# InjeQuest · Medical Disclaimer
 
 **Last updated**: 2026-09-22
 
-Please read and understand this disclaimer before continuing to use DakaSlim ("the App").
+Please read and understand this disclaimer before continuing to use InjeQuest ("the App").
 
 ---
 

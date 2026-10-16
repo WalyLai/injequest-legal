@@ -1,4 +1,4 @@
-# 打快瘦 DakaSlim · Legal
+# 打快瘦 InjeQuest · Legal
 
 ## 中文
 
